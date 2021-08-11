@@ -1,2 +1,19 @@
-# Learning-Management-System-
-A Learning Management System For Faculty Of Computers And Information Fayoum
+# Learning-Management-System
+
+# To Preview 
+preview will be available as soon as possible
+
+#Technology Used
+
+1- Html 
+
+2-Css
+
+3-Bootstrap
+
+4-Javascript
+
+5- React Js (Redux)
+
+6- Asp Web Api 
+
