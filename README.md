@@ -1,4 +1,7 @@
-#Technology Used
+# To Preview 
+preview will be available as soon as possible
+
+# Technology Used
 
 1- Html 
 
@@ -11,9 +14,5 @@
 5- React Js (Redux)
 
 6- Asp Web Api 
-
-# To Preview 
-preview will be available as soon as possible
-
 
 
